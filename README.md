@@ -11,19 +11,19 @@
 
 <img align="right" width=300px alt="sidePhoto" src="https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif" />
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG45ZGFha3I5NGhvM21naDQxZ3dxa3U3ZTNrODc2MzUwY254MjllYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SKzNPZtBYIm36MksgH/giphy.webp" width="35px">&nbsp;***About me***
-<!--
-I am a graduate Computer science. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
--->
-## My Skills Include
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG45ZGFha3I5NGhvM21naDQxZ3dxa3U3ZTNrODc2MzUwY254MjllYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SKzNPZtBYIm36MksgH/giphy.webp" width="35px">&nbsp;**About me** 
 
+- 🏫: I'm a Computer Engineer graduate
+- 🤔: In my free time I play videogames, draw, work out and keep up with new technologies and videogames 🎮🎨🏋️‍♀️🔍
+- 🎓: I specialized in Artifical Intelligence in the degree 🧠💻🤖
+- 🌱: I’m currently learning about Gaming Testing, both manual and automated
+- 💻: I'm currently working on a personal project to learn and practice how to devise test cases for videogames ⚙
+- 👩‍💻: I did an internship as a Web QA Tester
+- :speaking_head: : I speak Spanish (Native) and English (Pursuing the C1 level at this moment)
+- 📥: Feel free to message me to ask me anything! 
+
+## My Skills Include 🛠️
+ 
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -58,7 +58,7 @@ I am a graduate Computer science. C, C++, Python, Javascript, HTML, and Shell ar
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 </span>
 
-## Check out my projects
+## Check out my projects 📁
 
 
 <div>
@@ -74,10 +74,12 @@ I am a graduate Computer science. C, C++, Python, Javascript, HTML, and Shell ar
 
 <hr>
 <p align="center">
-   <i>No tree, it is said, can grow to heaven unless its roots are in hell.</i>
+   <i>To acquire knowledge, one must study; but to acquire wisdom, one must observe.</i>
    <br>
-<br>	
+<br>	 
 <a target="_blank" href="https://www.linkedin.com/in/sira-garcer%C3%A1n-garc%C3%ADa-b41595242/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+
+Last edited on: 31/10/2024
 
 <!--
 **TheLeshuga/TheLeshuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
