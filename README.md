@@ -1,5 +1,5 @@
 <div align="center" width="200">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjAyZHZzaW56cm5sYjVvMTh0dmpydGZwbG1oOXRpZHdocGNiN256bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3joYfsxjITUvP00atl/giphy.webp"
+  <img src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif"
   alt="header"/>
 </div>
 
@@ -9,9 +9,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width=300px alt="sidePhoto" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVqZHFpdWR2ODdlZG12NXE1ZWxyYmhta2NuMWxveXJpNmJkZHkweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0GqetcAXDkrGkire/giphy.webp" />
+<img align="right" width=300px alt="sidePhoto" src="https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif" />
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRrN3UwYjNwMHBhMXNsZnIzb3duOWk3eDQ3M2RsdWgwMjdyem0xdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sKKJXOTS52CK5Ts9ws/giphy.webp" width="35px">&nbsp;***About me***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG45ZGFha3I5NGhvM21naDQxZ3dxa3U3ZTNrODc2MzUwY254MjllYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SKzNPZtBYIm36MksgH/giphy.webp" width="35px">&nbsp;***About me***
 <!--
 I am a graduate Computer science. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web designing, Android development, and digital marketing**
