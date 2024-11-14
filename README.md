@@ -16,7 +16,8 @@
 - 🏫: I'm a Computer Engineer graduate
 - 🤔: In my free time I play videogames, draw, work out and keep up with new technologies and videogames 🎮🎨🏋️‍♀️🔍
 - 🎓: I specialized in Artifical Intelligence in the degree 🧠💻🤖
-- 🌱: I’m currently learning about Gaming Testing, both manual and automated
+- 🌱: I’m every day learning more about Gaming Testing, both manual and automated
+- 📚: I keep on honing my testing skills by using platforms such as PlaytestCloud, Antidote, uTest and EA Playtesting. 🖊
 - 💻: I'm currently working on a personal project to learn and practice how to devise test cases for videogames ⚙
 - 👩‍💻: I did an internship as a Web QA Tester
 - :speaking_head: : I speak Spanish (Native) and English (Pursuing the C1 level at this moment)
