@@ -82,7 +82,7 @@
 <br>	 
 <a target="_blank" href="https://www.linkedin.com/in/sira-garcer%C3%A1n-garc%C3%ADa-b41595242/?locale=en_US"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
-Last edited on: 31/10/2024
+Last edited on: 14/11/2024
 
 <!--
 **TheLeshuga/TheLeshuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
