@@ -20,7 +20,7 @@
 - 📚: I keep on honing my QA skills by using platforms such as PlaytestCloud, Antidote, uTest and EA Playtesting. 🖊
 - 💻: I'm currently working on a personal project to learn and practice how to devise test cases for videogames ⚙
 - 👩‍💻: I did an internship as a Web QA Tester
-- :speaking_head: : I speak Spanish (Native) and English (Pursuing the C1 level at this moment)
+- :speaking_head: : I speak Spanish (Native) and English (Pursuing the C1 level at the moment)
 - 📥: Feel free to message me to ask me anything! 
 
 ## My Skills Include 🛠️
