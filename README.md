@@ -66,6 +66,9 @@
 
 <div>
   <p>
+     <a href="https://github.com/TheLeshuga/MetroidNESTesting">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheLeshuga&repo=MetroidNESTesting" alt="GitHub Stats" />
+    </a>
     <a href="https://github.com/TheLeshuga/WorldCollisionTester">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheLeshuga&repo=WorldCollisionTester" alt="GitHub Stats" />
     </a>
