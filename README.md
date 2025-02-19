@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi , I'm Sira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate Software and Videogame Quality Assurance Tester</h3>
+<h3 align="center">A passionate Software and Game Quality Assurance Tester</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -16,11 +16,11 @@
 - 🏫: I'm a Computer Engineer graduate
 - 🤔: In my free time I play videogames, draw, work out and keep up with new technologies and videogames 🎮🎨🏋️‍♀️🔍
 - 🎓: I specialized in Artifical Intelligence in the degree 🧠💻🤖
-- 🌱: I’m learning more about Gaming Testing, both manual and automated every day
-- 📚: I keep on honing my QA skills by using platforms such as PlaytestCloud, Antidote, uTest and EA Playtesting. 🖊
+- 🌱: I’m learning more about Gaming Testing, both manual and automated every day and Data Analytics
+- 📚: I keep on honing my QA skills by using platforms such as PlaytestCloud, Antidote, uTest and EA Playtesting 🖊
 - 💻: I'm currently working on a personal project to learn and practice how to devise test cases for videogames ⚙
 - 👩‍💻: I did an internship as a Web QA Tester
-- :speaking_head: : I speak Spanish (Native) and English (Pursuing the C1 level at the moment)
+- :speaking_head: : I speak Spanish (Native) and English (C1). I got my English level certified by TOEIC.
 - 📥: Feel free to message me to ask me anything! 
 
 ## My Skills Include 🛠️
